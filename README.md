@@ -1,9 +1,8 @@
 ## Hello there, I'm Skyler! 👋 👋
 
-##### Software Developer in Python & Javascript 🐍 | Husband & Father 👶🏼 | Classical Musician 🎺 | Backpacking Enthusiast 🏔 | Aspiring Woodworker 🪵 | A love for building things ❤️
+#### Software Developer in Python & Javascript 🐍 | Husband & Father 👶🏼 | Classical Musician 🎺 | Backpacking Enthusiast 🏔 | Aspiring Woodworker 🪵 | A love for building things ❤️
 
 <hr />
-
 
 ### About me 😎
 
@@ -12,7 +11,6 @@ All of the above with a background in professional classical music and universit
 <hr/>
 
 ### Links ⛓
-
 
 For my LinkedIn profile, go here ----> [LinkedIn](https://www.linkedin.com/in/skylerjohnson102020/)
 
