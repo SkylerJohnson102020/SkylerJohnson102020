@@ -6,7 +6,7 @@
 
 ### About me 😎
 
-All of the above with a background in professional classical music and university teaching. My experiences have educated me to work as a member of a team, pay close attention to detail, perform in high pressure situations, mentor and help students, and learn/grow from others. The journey through software development has been a fast, intense ride and I have enjoyed learning and growing in this passion. I am excited to continue to learn and become a better developer each day. 
+All of the above with a background in professional classical music and university teaching. My experiences have educated me to work as a member of a team, pay close attention to detail, perform in high pressure situations, mentor and help students, and learn/grow from others. The journey through software development has been a fast, intense ride and I have enjoyed learning and growing in this fun and challenging passion of mine. I am excited to continue to learn and become a better developer each day. 
 <br/>
 <hr/>
 
