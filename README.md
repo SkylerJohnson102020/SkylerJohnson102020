@@ -1,5 +1,7 @@
 ## Hello there, I'm Skyler! 👋 👋
 
+![Me](P8060117.JPG)
+
 #### Software Developer in Python & Javascript 🐍 | Husband & Father 👶🏼 | Classical Musician 🎺 | Backpacking Enthusiast 🏔 | Aspiring Woodworker 🪵 | A love for building things ❤️
 
 <hr />
